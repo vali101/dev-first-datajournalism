@@ -4,6 +4,6 @@ This is a list of dev first tools for investigative research.
 
 # Information Aggregation 
 
-* Searching usernames across multiple platforms: [Investigo](https://github.com/tdh8316/Investigo)
+* Searching usernames across multiple platforms: [sherlock](https://github.com/sherlock-project/sherlock) (with adult sites [Investigo](https://github.com/tdh8316/Investigo))
 * Instagram Metadata: [Osinatgram](https://github.com/Datalux/Osintgram)
 * 
