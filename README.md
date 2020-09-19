@@ -18,6 +18,7 @@ I haven´t tested all the tools linked below. This should just served as a colle
 
 ## Official data sources
 * Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format: [openapi-directory](https://github.com/APIs-guru/openapi-directory)
+* List of [awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Fivethirtyeight Data](https://github.com/fivethirtyeight/data)
 
 ## Data Journalism guides and information 
@@ -30,4 +31,4 @@ I haven´t tested all the tools linked below. This should just served as a colle
 * [Tilegram Map](https://github.com/PitchInteractiveInc/tilegrams)
 
 ## Offline knowlede base managers (notetaking)
-* Command line knowlede base manager: [kb](https://github.com/gnebbia/kb)
+* Command line knowledge base manager: [kb](https://github.com/gnebbia/kb)
